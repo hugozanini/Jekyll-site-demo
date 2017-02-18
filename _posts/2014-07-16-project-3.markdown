@@ -7,9 +7,9 @@ date: 2014-07-16
 img: qrcode.png
 thumbnail: qrcode.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date:
+client:
+category: 
+description: O principal diferencial da Markitt está no baixo custo do seu produto, isso se deve ao uso dos Qr Codes. Esta tecnologia vem ganhando espaço no mercado e tem aplicações diversas, uma delas é o controle de estoque. A nossa empresa trabalha para que os armazéns de café possam ter acesso a este recurso e possam assim, agregar ainda mais valor ao seu produto.
 
 ---

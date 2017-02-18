@@ -7,9 +7,9 @@ date: 2014-07-17
 img: software.png
 thumbnail: software.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 
+client: 
+category: 
+description: O software desenvolvido pela Markitt oferece uma série de serviços para o gestor do armazém, que vão desde um mapa dinâmico com os grãos disponíveis em estoque até a geração de relatórios para auxiliar na tomada de decisões.
 
 ---
