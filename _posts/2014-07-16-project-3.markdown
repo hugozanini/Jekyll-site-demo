@@ -2,7 +2,7 @@
 title: QR Codes
 subtitle:
 layout: default
-modal-id: 3
+modal-id: QRCodes
 date: 2014-07-16
 img: qrcode.png
 thumbnail: qrcode.png
