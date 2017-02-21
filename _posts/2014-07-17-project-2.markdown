@@ -2,7 +2,7 @@
 title: Software
 subtitle: 
 layout: default
-modal-id: Software
+modal-id: 2
 date: 2014-07-17
 img: software.png
 thumbnail: software.png
