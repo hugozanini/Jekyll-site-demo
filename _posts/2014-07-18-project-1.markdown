@@ -7,9 +7,6 @@ date: 2014-07-18
 img: visao.png
 thumbnail: visao.png
 alt: image-alt
-project-date: 
-client: 
-category: 
 description: Com o auxílio da Visão Computacional, a Markitt oferece aos seus clientes um controle de estoque eficiente e seguro que é capaz de mapear todo o estoque presente dentro do armazém, dispensando as metodologias de controle ultrapassadas.
 
 ---
