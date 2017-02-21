@@ -2,7 +2,7 @@
 title: Visão Computacional
 subtitle: 
 layout: default
-modal-id: VisaoComputacional
+modal-id: 1
 date: 2014-07-18
 img: visao.png
 thumbnail: visao.png
